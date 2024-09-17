@@ -6,4 +6,4 @@ Is an autonomous penetration testing tool that's used by a human operator to per
 
 ## Usage Examples:
 
-(Introducing the AI-Powered Penetration Tester: HackerGPT)[https://whitehacklabs.com/blog/ai-powered-penetration-tester-hackergpt/]
+[Introducing the AI-Powered Penetration Tester: HackerGPT](https://whitehacklabs.com/blog/ai-powered-penetration-tester-hackergpt/)
