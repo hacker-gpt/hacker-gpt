@@ -2,9 +2,6 @@
 
 Is an autonomous penetration testing tool that's used by a human operator to perform exploits on a target and produce reports about discovered weaknesses.
 
-Here is a quick demo:
-
-![Hacker GPT](https://videos.ctfassets.net/64984aro4ssj/54SGcNhx0OZl3jifKlDmab/7c07a51ba7201f55d55b15fb24cc58e4/CVE-2024-23334_1_.mp4)
 
 ## Usage Examples:
 
