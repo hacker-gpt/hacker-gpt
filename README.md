@@ -18,4 +18,4 @@ If you are interested in obtaining a license, please contact us at support@hacke
 
 ## Lite Version
 
-Lite version is a publicly available OSINT and Discovery tool: https://hackergpt.app. You can read more on how to use it [here](https://hacker-gpt.github.io/lite/).
+Lite version is a publicly available OSINT and Discovery tool: https://hackergpt.app. You can read more on how to use it [here](https://hacker-gpt.github.io/lite/). Also on [YouTube](https://www.youtube.com/@HackerGPT-Lite).
